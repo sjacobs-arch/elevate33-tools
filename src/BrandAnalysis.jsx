@@ -294,7 +294,7 @@ const UploadCard = ({ cfg, loaded, loading, fileName, onFile }) => {
 };
 
 // ── AI Insight ────────────────────────────────────────────────────────────────
-const APOLLO_API_KEY = 'APOLLO_KEY_PLACEHOLDER';
+const APOLLO_API_KEY = '9k011gxqVNr15wcTw2RCOA';
 
 const SYSTEM_PROMPT = `You are an expert Amazon Advertising strategist working for ELEVATE33, a premium Amazon-focused eCommerce agency. You are analyzing aggregated performance metrics from a Sponsored Products audit.
 
